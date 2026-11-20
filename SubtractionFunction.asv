@@ -1,7 +1,0 @@
-funcion [z] = SubtractionFunction(x,y)
-
-%This function simply Subtract two numbers 
-%I have added a
-
-z = x-y;
-
